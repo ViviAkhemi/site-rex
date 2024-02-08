@@ -126,4 +126,7 @@ main {
     .cabecalho__menu {
         justify-content: center;
     }
+    .rex {
+        width: 400px;
+        heigth: 522.5px;
 }
